@@ -1,0 +1,83 @@
+
+.nava{
+    justify-content: end;
+    display: flex;
+    align-items: end;
+}
+
+.scrolImag{
+    height: 550px;
+}
+.cardImag{
+    height: 400px;
+    width: 400px;
+    border: 5px solid rgb(168,84,22);
+    border-radius: 20px;
+}
+.cardSli{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    text-align: center;
+    margin-left: 15px;
+}
+.foo {
+    background-color: rgb(61, 98, 108);
+    color: white;
+  }
+  .siz {
+    height: 200px;
+  }
+  .si{
+     font-size: 3rem;
+  }
+  .f{
+    font-size: 1.5rem;
+  }
+  .iconImag{
+    width: 50px;
+    height: 50px;
+   
+  }
+  .address{
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(253, 253, 253);
+  }
+  span{
+    color: rgb(106,175,80);
+  }
+  .hf{
+    font-size: 2rem;
+  }
+  .rowHe{
+      height: 700px;
+  }
+  small{
+    font-size: 18px;
+  }
+  .villageHeading{
+    background-color: rgb(168,84,22);
+    color: white;
+    text-align: center;
+  }
+  h5 , small{
+    color: rgb(168,84,22);
+    
+  }
+  .ico{
+    /* position: absolute; */
+  }
+  .village{
+   /* margin-left: 100px; */
+  
+   position: relative;
+  }
+  .tableHead th{
+    background-color: rgb(171, 174, 179);
+  }
+  p{
+    font-size: 1rem;
+  }
+
+  
